@@ -1,0 +1,9 @@
+# Blender version not pushed to cloud
+# https://evansbohl.gumroad.com/l/mixamotoue5
+Anims_In/*
+Anims_Out/*
+BlenderMixamo330/*
+
+!Anims_In/.gitkeep
+!Anims_Out/.gitkeep
+!BlenderMixamo330/.gitkeep

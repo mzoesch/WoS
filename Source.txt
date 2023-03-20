@@ -1,0 +1,20 @@
+
+
+Overview:
+https://docs.unrealengine.com/5.0/en-US/networking-overview-for-unreal-engine/
+
+D Server:
+-> https://docs.unrealengine.com/5.0/en-US/setting-up-dedicated-servers-in-unreal-engine/
+
+Quickstart:
+-> https://docs.unrealengine.com/5.0/en-US/multiplayer-programming-quick-start-for-unreal-engine/
+
+EOS:
+-> https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/EOS/
+
+Ninja:
+-> https://forums.unrealengine.com/t/ninja-character-dynamic-gravity-for-characters-objects/151744
+-> https://forums.unrealengine.com/t/ninja-character-dynamic-gravity-for-characters-objects/151744/51?page=5 // For FP
+
+Mixamo:
+-> https://www.mixamo.com/
